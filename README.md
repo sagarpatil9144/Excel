@@ -1,1 +1,1 @@
-This project identifies optimal locations for Zomato's expansio using data-driven insights.The repository contains Excel analysis files & Datasets,Dashboard(included in excel sheet), Word file on Objectives & subjectives,and Presentation on the project. 
+This project identifies optimal locations for Zomato's expansion using data-driven insights.The repository contains Excel analysis files & Datasets,Dashboard(included in excel sheet), Word file on Objectives & subjectives,and Presentation on the project. 
